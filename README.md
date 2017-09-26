@@ -107,6 +107,8 @@ CLIENT_NETWORK_IP = 10.11.11.x
 CLIENT_NETWORK_MASK = 255.255.255.0
 ```
 
+Lastly, you can now deploy StorageGRID as described in the Deployment Guide.
+
 ## Notice
 
 ```
